@@ -40,7 +40,8 @@ body {
     text-align: center;
 }
 .own > .img{
-    max-width: 90px;
+    margin-top:10px;
+    max-width: 80px;
 }
 .header{
     padding: 6px;
