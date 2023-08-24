@@ -34,7 +34,14 @@ body {
     grid-gap: 0;
 	grid-template-rows: 100px; 
 }
-
+.own{
+    display: block;
+    height: 100px;
+    text-align: center;
+}
+.own > .img{
+    max-width: 90px;
+}
 .header{
     padding: 6px;
     display: grid;
